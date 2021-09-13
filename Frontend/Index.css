@@ -1,0 +1,23 @@
+*{
+  margin:5px;
+  padding:5px;
+}
+body{
+ background:goldenrod ;
+ font-family: Arial Narrow;
+
+}
+.color{
+  color:rgb(118, 88, 252)
+}
+#tabla{
+ background: hotpink;
+}
+
+header{
+ background:beige;
+}
+.bot{
+background: brown;
+text-align: center;
+}
